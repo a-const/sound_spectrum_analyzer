@@ -1,2 +1,5 @@
-# sound_spectrum_analyzer
-Edu project. Analyzing .wav file to show spectrum in each second.
+# .WAV spectrum analyser
+
+For educatoinal purpose.
+Reading needed chunks from file and demonstration amplitude on several frequencies.
+
